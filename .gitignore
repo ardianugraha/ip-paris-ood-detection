@@ -7,3 +7,4 @@ Users/
 cifar10_res18_v1.5.zip
 cifar10_resnet18_32x32_base_e100_lr0.1_default
 __init__.py
+model_cifar.ipynb
