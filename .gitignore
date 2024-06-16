@@ -10,3 +10,5 @@ __init__.py
 model_cifar.ipynb
 .vscode/
 .DS_Store
+.tar.gz
+.zip
