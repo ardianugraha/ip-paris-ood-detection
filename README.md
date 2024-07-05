@@ -1,1 +1,7 @@
-# ip-paris-ood-detection
+## IP Paris Master: Project Repository
+<br>
+from course
+SIC7002 AI for Data Science
+<br>
+reference
+[text](https://github.com/Jingkang50/OpenOOD)
