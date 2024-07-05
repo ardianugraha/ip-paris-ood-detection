@@ -4,4 +4,4 @@ from course
 SIC7002 AI for Data Science
 <br>
 reference
-[text](https://github.com/Jingkang50/OpenOOD)
+(https://github.com/Jingkang50/OpenOOD)
